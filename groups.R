@@ -1,0 +1,6 @@
+group_a <- c("Turkey", "Italy", "Wales", "Switzerland")
+group_b <- c("Denmark", "Finland", "Belgium", "Russia")
+group_c <- c("Netherlands", "Ukraine", "Austria", "North Macedonia")
+group_d <- c("England", "Croatia", "Scotland", "Czech Republic")
+group_e <- c("Spain", "Sweden", "Poland", "Slovenia")
+group_f <- c("Hungary", "Portugal", "France", "Germany")
